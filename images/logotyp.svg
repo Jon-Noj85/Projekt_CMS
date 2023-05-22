@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 113.16 80.53">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-6 {
+        font-family: Broadway, Broadway;
+        font-size: 16.94px;
+      }
+
+      .cls-6, .cls-7 {
+        fill: #b8a640;
+      }
+
+      .cls-8 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-9 {
+        letter-spacing: .03em;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <g>
+        <g>
+          <path class="cls-7" d="M4.51,43.64c13.8-9.87,27.6-19.74,41.4-29.61l11.77-8.42c1.32-.94,1.95-2.61,1.08-4.1-.76-1.3-2.78-2.02-4.1-1.08l-9.32,6.67c-1.32,.94-1.95,2.61-1.08,4.1,.76,1.3,2.78,2.02,4.1,1.08l9.32-6.67L54.65,.43C40.85,10.3,27.05,20.17,13.25,30.04L1.48,38.46c-1.32,.94-1.95,2.61-1.08,4.1,.76,1.3,2.78,2.02,4.1,1.08h0Z"/>
+          <path class="cls-7" d="M22.13,77.63c0-11.25,0-22.5,0-33.75,0-3.86-6-3.87-6,0v3.71c0,3.86,6,3.87,6,0v-3.71h-6c0,11.25,0,22.5,0,33.75,0,3.86,6,3.87,6,0h0Z"/>
+        </g>
+        <g>
+          <path class="cls-7" d="M111.68,38.46c-13.8-9.87-27.6-19.74-41.4-29.61L58.51,.43l-3.03,5.18,9.32,6.67c1.32,.94,3.34,.23,4.1-1.08,.88-1.51,.25-3.16-1.08-4.1-3.11-2.22-6.21-4.45-9.32-6.67-1.32-.94-3.34-.23-4.1,1.08-.88,1.51-.25,3.16,1.08,4.1,13.8,9.87,27.6,19.74,41.4,29.61l11.77,8.42c1.32,.94,3.34,.23,4.1-1.08,.88-1.51,.25-3.16-1.08-4.1h0Z"/>
+          <path class="cls-7" d="M97.03,77.63c0-11.25,0-22.5,0-33.75h-6v3.71c0,3.86,6,3.87,6,0v-3.71c0-3.86-6-3.87-6,0,0,11.25,0,22.5,0,33.75,0,3.86,6,3.87,6,0h0Z"/>
+        </g>
+      </g>
+      <text class="cls-6" transform="translate(25.5 44.72) scale(.98 1)"><tspan class="cls-5" x="0" y="0">R</tspan><tspan class="cls-4" x="12.79" y="0">ä</tspan><tspan class="cls-3" x="24.41" y="0">v</tspan><tspan class="cls-2" x="34.99" y="0">s</tspan><tspan class="cls-9" x="43.1" y="0">t</tspan><tspan class="cls-10" x="50.92" y="0">a</tspan><tspan class="cls-1" x="0" y="20.33">S</tspan><tspan class="cls-10" x="9.91" y="20.33">tug</tspan><tspan class="cls-8" x="40.04" y="20.33">b</tspan><tspan class="cls-10" x="52.21" y="20.33">y</tspan></text>
+    </g>
+  </g>
+</svg>
